@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/autotelik/datashift_spree"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "2.4.1"
   s.summary = "Product and image import/export for Spree from Excel/CSV"
   
   s.add_runtime_dependency 'datashift', '~> 0.15', '>= 0.15.0'
